@@ -1,0 +1,21 @@
+{
+  "name": "04-por-hacer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "Edwin Melara Landaverde <melara0606@gmial.com"
+  },
+  "keywords": [
+    "WEB",
+    "NODEJS",
+    "PRACTICA"
+  ],
+  "author": "Edwin Melara Landaverde",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "yargs": "^12.0.2"
+  }
+}
